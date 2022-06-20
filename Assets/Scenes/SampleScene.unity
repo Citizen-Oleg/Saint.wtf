@@ -783,11 +783,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 10
+    m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
-    m_MaxSize: 40
+    m_MaxSize: 300
     m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -930,7 +930,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2870954894099440601, guid: 423fa9cf3c6610c4989db56114ea7442, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.19
+      value: -0.05
       objectReference: {fileID: 0}
     - target: {fileID: 2870954894099440601, guid: 423fa9cf3c6610c4989db56114ea7442, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1053,7 +1053,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2870954894099440601, guid: c3192a7500f86a749bc9e6b177335aff, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.21
+      value: -0.1
       objectReference: {fileID: 0}
     - target: {fileID: 2870954894099440601, guid: c3192a7500f86a749bc9e6b177335aff, type: 3}
       propertyPath: m_LocalPosition.z

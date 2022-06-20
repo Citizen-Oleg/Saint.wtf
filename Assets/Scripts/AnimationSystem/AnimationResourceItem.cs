@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace AnimationSystem
 {
-    public class AnimationResourceItem
+    public struct AnimationResourceItem
     {
         public ResourceItem ResourceItem;
         public Vector3 StartPosition;

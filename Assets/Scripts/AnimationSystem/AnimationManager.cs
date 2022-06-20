@@ -52,7 +52,7 @@ namespace AnimationSystem
                 
                 information.ResourceItem.transform.rotation = rotationItem;
                 
-
+                _animationResourceItems[i] = information;
                 if (information.Progress >= 1)
                 {
                     information.CallBack?.Invoke(information.OffSet);
